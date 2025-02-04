@@ -1,0 +1,12 @@
+/* making media query for mobile */
+
+@media (max-width: 768px) {
+   #first{
+      display: none;
+   }
+   #all-cards{
+
+      display:block;
+   }
+   
+}
